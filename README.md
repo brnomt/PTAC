@@ -7,6 +7,6 @@ You are free to study, modify, and build upon this work, provided that:
 - Proper attribution to the original author is given.
 - Any derived work is non-commercial.
 
-Author: Bruno Moraga Torres.
+Author: [**Bruno Moraga Torres**](https://github.com/brnomt)
 
 Year: 2026.
